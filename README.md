@@ -22,7 +22,7 @@ Follow these steps to set up the project locally, whether for development or per
 1. **Clone the Repository**
    - Get the repository URL and clone it using the command:
      ```bash
-     git clone [repository URL]
+     git clone [git@github.com:manavpatel1310/TravelLocationApp.git]
      ```
 
 2. **Install Dependencies**
